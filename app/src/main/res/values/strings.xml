@@ -1,0 +1,10 @@
+<resources>
+        <string name="app_name">Tarea1-PrimerParcial</string>
+        <string name="btn1">Sumar</string>
+        <string name="btn2">Restar</string>
+        <string name="btn3">Dividir</string>
+        <string name="btn4">Multiplicar</string>
+        <string name="txt1">Ingrese primer número</string>
+        <string name="txt2">Ingrese segundo número</string>
+
+    </resources>
